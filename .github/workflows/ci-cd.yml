@@ -31,4 +31,5 @@ jobs:
         run: sleep 20
 
       - name: Deploy Code
-        run: sfdx force:source:deploy --sourcepath force-app --targetusername "nanwaniricha173@agentforce.com" 
+
+        run: sfdx force:source:deploy --sourcepath force-app --targetusername "s.goel@astounddigital.com.devedition" 
